@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="player-stats.svg" alt="Player Stats Card" width="600" height="900" />
+  <img src="player-stats.svg" alt="Player Stats Card" width="550" height="900" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavyaDoriya&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavyaDoriya&theme=radical&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaDoriya&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -61,16 +61,16 @@
 <h3 align="center">Quest Log (Recent Builds)</h3>
 <div align="center">
   <a href="https://github.com/BhavyaDoriya/Project-Prism">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Project-Prism&theme=radical&hide_border=true" width="48%" alt="Project Prism Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Project-Prism&theme=radical&hide_border=true&v=1" width="48%" alt="Project Prism Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/Solar-Drishti">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Solar-Drishti&theme=radical&hide_border=true" width="48%" alt="Solar Drishti Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Solar-Drishti&theme=radical&hide_border=true&v=1" width="48%" alt="Solar Drishti Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/solar_weather_data_prep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=solar_weather_data_prep&theme=radical&hide_border=true" width="48%" alt="Solar Data Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=solar_weather_data_prep&theme=radical&hide_border=true&v=1" width="48%" alt="Solar Data Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/MatchMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=MatchMate&theme=radical&hide_border=true" width="48%" alt="MatchMate Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=MatchMate&theme=radical&hide_border=true&v=1" width="48%" alt="MatchMate Card" />
   </a>
 </div>
 
