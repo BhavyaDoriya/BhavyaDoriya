@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="100%" height="100%">
   <defs>
     <style>
-      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 22px; fill: #fe428e; }
-      .key { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 16px; fill: #f8d847; }
-      .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 15px; fill: #a9fef7; }
+      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 28px; fill: #fe428e; }
+      .key { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 24px; fill: #f8d847; }
+      .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 23px; fill: #a9fef7; }
       .bg { fill: #141321; stroke: #fe428e; stroke-width: 2; rx: 8; }
       .line { stroke: #fe428e; stroke-width: 1; opacity: 0.5; }
     </style>
