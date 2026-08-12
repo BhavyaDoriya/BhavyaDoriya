@@ -1,38 +1,89 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Architecture+Specialist;Systems+Security+Advocate" alt="Typing SVG" />
+  <img src="charmeleon-game-banner.svg" width="100%" alt="Charmeleon Engineer Banner" />
 </div>
 
----
+<br/>
 
-I am a Software Engineer focused on architecting scalable backends, resilient data pipelines, and secure API ecosystems. I specialize in building end-to-end systems that bridge the gap between massive raw data and highly available applications, applying strong software engineering principles to domains ranging from Machine Learning to mobile security.
+<h3 align="center">Data & Machine Learning Engineer | Overcoming difficulty spikes in code and Games</h3>
 
-When I am not designing APIs or optimizing database queries, I explore 3D modeling, lighting systems, and Blueprints within Unreal Engine 5.
-
-### Core Engineering Competencies
-
-*   **Languages:** Python, Java, JavaScript/TypeScript, SQL, Dart
-*   **Backend & APIs:** FastAPI, Django, Node.js, Express, RESTful Architecture
-*   **Data & ML Infrastructure:** Polars, Pandas, Scikit-learn, FLAML, Groq LLM Orchestration
-*   **Frontend & Mobile:** Next.js, React, Tailwind CSS, Flutter
-*   **DevOps & Security:** Docker, Celery, Redis, PostgreSQL, MinIO, JWT, Zero-Trust Architecture
-
-### Selected Engineering Projects
-
-*   **Project Prism:** Designed an autonomous, containerized Auto-ML pipeline engine. Engineered a dual prompt-driven and manual DAG execution architecture powered by FastAPI, Celery background workers, and Polars for high-speed data coercion.
-*   **Solar Data Architecture:** Architected an end-to-end data engineering pipeline to ingest, prep, and evaluate massive solar weather datasets for advanced predictive modeling.
-*   **Secure Mobile Ecosystem:** Developed a Flutter-based Android application utilizing a custom proxy server. Engineered a Zero-Trust architecture featuring dynamic, live JWT API key injection to prevent binary reverse-engineering.
-*   **MatchMate (2025):** Engineered a high-performance Java matchmaking system utilizing advanced OOP patterns (runtime polymorphism) and deep JDBC integration.
-*   **Project Sentinel:** Engineered a proactive SDLC security tool to implement Zero-Trust staging and prevent credential leaks during development.
-
-### GitHub Activity
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavyaDoriya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=2496ED&title_color=2496ED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaDoriya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2496ED" />
+  <img src="player-stats.svg" alt="Player Stats Card" width="100%" />
 </div>
 
-### 🔗 Connect With Me
+<br/>
 
-*   **Email:** bhavyadoriya2007@gmail.com
-*   **LinkedIn:** [linkedin.com/in/your-profile-here](https://www.linkedin.com/in/your-profile-here)
-*   **Portfolio:** [Coming Soon]
+<h3 align="center">Live Server Stats</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/BhavyaDoriya?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavyaDoriya&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaDoriya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<h3 align="center">Tech Stack Inventory</h3>
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="40" />
+  <img src="https://skillicons.dev/icons?i=java" title="Core Java" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL" height="40" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="40" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" width="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="40" />
+
+  <h4>Data, ML & Infrastructure</h4>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy" height="40" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" height="40" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" title="Polars" height="40" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="40" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" width="40" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" />
+</div>
+
+<br/>
+
+<h3 align="center">Quest Log (Recent Builds)</h3>
+<div align="center">
+  <a href="https://github.com/BhavyaDoriya/Project-Prism">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Project-Prism&theme=radical&hide_border=true" width="48%" alt="Project Prism Card" />
+  </a>
+  <a href="https://github.com/BhavyaDoriya/Solar-Drishti">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Solar-Drishti&theme=radical&hide_border=true" width="48%" alt="Solar Drishti Card" />
+  </a>
+  <a href="https://github.com/BhavyaDoriya/solar_weather_data_prep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=solar_weather_data_prep&theme=radical&hide_border=true" width="48%" alt="Solar Data Card" />
+  </a>
+  <a href="https://github.com/BhavyaDoriya/Yapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Yapper&theme=radical&hide_border=true" width="48%" alt="Yapper Card" />
+  </a>
+  <a href="https://github.com/BhavyaDoriya/MatchMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=MatchMate&theme=radical&hide_border=true" width="48%" alt="MatchMate Card" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:bhavyadoriya2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhavya-doriya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
