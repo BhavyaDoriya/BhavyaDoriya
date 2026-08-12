@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="player-stats.svg" alt="Player Stats Card" width="100%" />
+  <img src="player-stats.svg" alt="Player Stats Card" width="650" />
 </div>
 
 <br/>
