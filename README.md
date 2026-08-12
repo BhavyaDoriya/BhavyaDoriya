@@ -14,14 +14,18 @@
 
 <br/>
 
-<h3 align="center">Live Server Stats</h3>
+<h3 align="center">Live Server Stats & Activity</h3>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/BhavyaDoriya?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavyaDoriya&theme=radical&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaDoriya&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BhavyaDoriya&theme=radical&hide_border=false&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=BhavyaDoriya&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaDoriya&theme=radical&hide_border=false" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -61,16 +65,16 @@
 <h3 align="center">Quest Log (Recent Builds)</h3>
 <div align="center">
   <a href="https://github.com/BhavyaDoriya/Project-Prism">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Project-Prism&theme=radical&hide_border=true&v=1" width="48%" alt="Project Prism Card" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BhavyaDoriya&repo=Project-Prism&theme=radical&hide_border=false" width="48%" alt="Project Prism Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/Solar-Drishti">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=Solar-Drishti&theme=radical&hide_border=true&v=1" width="48%" alt="Solar Drishti Card" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BhavyaDoriya&repo=Solar-Drishti&theme=radical&hide_border=false" width="48%" alt="Solar Drishti Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/solar_weather_data_prep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=solar_weather_data_prep&theme=radical&hide_border=true&v=1" width="48%" alt="Solar Data Card" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BhavyaDoriya&repo=solar_weather_data_prep&theme=radical&hide_border=false" width="48%" alt="Solar Data Card" />
   </a>
   <a href="https://github.com/BhavyaDoriya/MatchMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyaDoriya&repo=MatchMate&theme=radical&hide_border=true&v=1" width="48%" alt="MatchMate Card" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BhavyaDoriya&repo=MatchMate&theme=radical&hide_border=false" width="48%" alt="MatchMate Card" />
   </a>
 </div>
 
